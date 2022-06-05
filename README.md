@@ -1,21 +1,16 @@
 # lyft
 A data analysis of my rides as a Lyft driver. The goal is to maximize time and revenue results through data.
 
+### Update
+1 year of driving down. Let's analayze this data to forecast and predict trends in profits based on time of day, day of week week of month month of year, etc.
+
 ## Questions to Answer
-Q1. What is the most profitable day of the week?
+Q1. Average Hourly Rate (DoD, WoW, MoM, YoY, etc.)
 
-Q2. What is my daily average income?
+Q2. Holiday Trends?
 
-Q3. What is my weekly average income?
+Q3. When and where, which part of town?
 
-Q4. Which hours of the day are most profitable, for each day of the week?
+Q4. Schedule vacation based on pace of business at time of year
 
 ## Create Metrics
-
-M1.1 Ride Length Total
-M1.2 Ride length from Accept to Arrive
-M1.3 Ride length from Arrive to Pickup
-M1.4 Ride length from Pickup to Dropoff
-
-M2.1 Sessions per day
-M2.2 Length of Session
