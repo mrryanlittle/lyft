@@ -1,0 +1,4 @@
+first_name,last_name,date_of_birth,email,address_line_1,address_line_2,address_city,address_state,address_zip,country,institution_name,account_type,account_number_last_four,card_issuer,first_six,card_description,exp_month,exp_year
+Ryan,CHRISTMANLITTLE,1982-10-17,mrryanlittle@gmail.com,,,,,78251,US,,Visa,1869,JPMorgan Chase Bank N.A. - Debit,486796,Visa ending in 1869,8,2026
+Ryan,CHRISTMANLITTLE,1982-10-17,mrryanlittle@gmail.com,9914 Military Dr W 407,,San Antonio,CA,78251,US,JPMORGAN CHASE,,6388,,,,,
+Ryan,CHRISTMANLITTLE,1982-10-17,mrryanlittle@gmail.com,9914 Military Dr W,407,San Antonio,TX,78251,US,,,5915,,,,5,2027

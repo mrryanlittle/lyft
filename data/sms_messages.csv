@@ -1,0 +1,246 @@
+message_delivered_at,message_body,to_user_role,from_user_role
+2022-03-17 21:27:56.703 UTC,On my way,passenger,driver
+2022-01-02 03:57:53.594 UTC,Sounds good,passenger,driver
+2021-09-22 20:20:15.437 UTC,Stuck in traffic,passenger,driver
+2022-03-06 04:16:13.756 UTC,"Gate code, please?",passenger,driver
+2021-10-05 21:15:33.018 UTC,OK,passenger,driver
+2022-03-15 21:57:22.911 UTC,Sounds good,passenger,driver
+2021-12-31 23:37:19.881 UTC,"she's grabbing her phone, no worries",passenger,driver
+2021-10-17 01:12:18.685 UTC,"I can't get pictures in the app, I'll find her",passenger,driver
+2021-10-09 00:26:53.185 UTC,"Gate code, please?",passenger,driver
+2021-08-25 20:17:56.332 UTC,Sounds good,passenger,driver
+2022-02-07 23:48:16.851 UTC,Sounds good,passenger,driver
+2021-09-18 23:31:48.294 UTC,I'm outside unit 1901,passenger,driver
+2022-01-02 01:42:45.529 UTC,no worries,passenger,driver
+2022-03-03 10:31:10.989 UTC,"I keep trying, with the pound sign, is there another way?",passenger,driver
+2022-02-10 18:26:09.838 UTC,Sounds good,passenger,driver
+2021-09-17 04:01:36.735 UTC,On my way,passenger,driver
+2022-01-05 00:34:31.084 UTC,Stuck in traffic,passenger,driver
+2021-12-11 23:49:42.719 UTC,"Gate code, please?",passenger,driver
+2021-08-30 19:56:47.117 UTC,"the gps has you in the middle of the street, I'm at the Valero. it's there a business you are at that I can come to?",passenger,driver
+2022-03-31 23:11:30.703 UTC,Sounds good,passenger,driver
+2021-11-13 04:29:12.806 UTC,I have to loop around I might be a few minutes,passenger,driver
+2021-11-24 03:43:09.903 UTC,"Gate code, please?",passenger,driver
+2022-04-07 18:28:43.574 UTC,I'm outside of Health Texas in a white Kia soul,passenger,driver
+2022-03-17 22:50:05.393 UTC,Sounds good,passenger,driver
+2021-12-06 23:52:36.802 UTC,yes. I apologize I didn't hit the Arrive button,passenger,driver
+2022-01-23 04:24:59.380 UTC,OK,passenger,driver
+2021-09-05 01:31:44.038 UTC,Stuck in traffic,passenger,driver
+2022-01-16 02:56:55.223 UTC,Sounds good,passenger,driver
+2022-01-02 05:40:09.230 UTC,white,passenger,driver
+2022-02-03 02:02:16.079 UTC,where I parked across from the restaurant,passenger,driver
+2021-09-05 01:31:48.109 UTC,I'll be there ASAP,passenger,driver
+2021-10-21 02:04:14.954 UTC,OK,passenger,driver
+2021-12-30 06:05:28.441 UTC,almost to you,passenger,driver
+2021-11-09 22:24:13.292 UTC,Sounds good,passenger,driver
+2021-12-11 00:31:52.585 UTC,Sounds good,passenger,driver
+2022-06-01 20:10:14.993 UTC,Sounds good,passenger,driver
+2021-10-25 21:30:21.425 UTC,Sounds good,passenger,driver
+2021-11-11 01:47:02.996 UTC,"Gate code, please?",passenger,driver
+2021-11-13 04:31:10.725 UTC,"I can only come from the Northside of att center drive to enter the ride share lot, I have to go a few miles north to get to the proper exit, on my way",passenger,driver
+2021-11-08 21:09:06.255 UTC,"Hi, where are you?",passenger,driver
+2021-10-16 20:36:29.174 UTC,OK,passenger,driver
+2021-08-25 22:28:50.451 UTC,OK,passenger,driver
+2022-03-03 10:28:33.540 UTC,it's not working,passenger,driver
+2021-11-12 00:26:26.498 UTC,Sounds good,passenger,driver
+2022-06-03 06:30:22.566 UTC,"I'm your driver, Ryan",passenger,driver
+2022-03-18 22:50:05.414 UTC,where at the Walmart can I pick you up?,passenger,driver
+2022-01-02 05:35:27.897 UTC,OK,passenger,driver
+2022-05-27 03:24:18.308 UTC,Sounds good,passenger,driver
+2022-03-17 19:16:51.351 UTC,are you at the apartments? the GPS took me across the street,passenger,driver
+2021-12-26 04:57:03.950 UTC,Sounds good,passenger,driver
+2021-06-29 02:28:47.165 UTC,"Hi, where are you?",passenger,driver
+2022-03-31 19:54:11.409 UTC,no,passenger,driver
+2022-06-03 22:25:30.023 UTC,yes I just arrived,passenger,driver
+2022-01-16 04:06:22.235 UTC,Sounds good,passenger,driver
+2022-01-20 03:49:40.026 UTC,sorry I am stuck at the world longest train crossing,passenger,driver
+2022-01-12 22:00:50.676 UTC,OK,passenger,driver
+2021-09-21 23:02:36.864 UTC,Sounds good,passenger,driver
+2021-10-24 00:23:01.425 UTC,"Gate code, please?",passenger,driver
+2022-02-25 23:34:10.923 UTC,yes. white Kia soul. I'm parked in front of the office,passenger,driver
+2022-03-17 04:06:52.470 UTC,Sounds good,passenger,driver
+2022-01-29 09:21:45.788 UTC,OK,passenger,driver
+2021-09-18 03:33:55.791 UTC,Sounds good,passenger,driver
+2021-10-21 02:08:25.550 UTC,at the magic time machine?,passenger,driver
+2021-11-12 00:04:51.299 UTC,"Gate code, please?",passenger,driver
+2021-09-17 04:01:47.734 UTC,Sounds good,passenger,driver
+2022-03-17 22:28:05.965 UTC,"Gate code, please?",passenger,driver
+2022-03-19 22:17:51.164 UTC,Sounds good,passenger,driver
+2021-11-20 01:37:16.944 UTC,is it the Nissan dealership?,passenger,driver
+2021-10-20 19:00:43.657 UTC,"I'm outside of the main entrance, is this correct?",passenger,driver
+2021-10-11 20:00:14.529 UTC,I can't,passenger,driver
+2021-11-08 22:42:48.956 UTC,Sounds good,passenger,driver
+2022-02-05 19:34:32.933 UTC,OK,passenger,driver
+2022-01-13 21:40:48.961 UTC,Sounds good,passenger,driver
+2022-01-03 21:24:49.476 UTC,yes. I'm in a white Kia soul at zone 3,passenger,driver
+2021-12-10 02:37:31.046 UTC,"Gate code, please?",passenger,driver
+2022-03-12 04:18:07.799 UTC,"Gate code, please?",passenger,driver
+2021-09-21 23:30:43.949 UTC,"Gate code, please?",passenger,driver
+2021-12-05 01:58:27.297 UTC,Stuck in traffic,passenger,driver
+2021-10-20 03:00:52.358 UTC,OK,passenger,driver
+2021-10-24 00:24:09.774 UTC,yes,passenger,driver
+2021-11-14 00:27:49.385 UTC,Sounds good,passenger,driver
+2022-05-27 04:49:42.838 UTC,parked in front of forgot k,passenger,driver
+2022-03-03 10:27:33.341 UTC,"Gate code, please?",passenger,driver
+2021-11-18 06:50:56.647 UTC,Sounds good,passenger,driver
+2021-09-03 21:37:33.284 UTC,ok. I'm in a line of cars outside the auditorium,passenger,driver
+2022-04-09 02:43:19.717 UTC,I'm at 7-11 is this the correct pickup spot?,passenger,driver
+2021-11-27 02:20:29.269 UTC,"I'm out front across the street, hazard lights on",passenger,driver
+2021-11-20 06:08:54.677 UTC,yes,passenger,driver
+2022-02-25 21:25:46.167 UTC,Sounds good,passenger,driver
+2022-03-02 17:32:55.268 UTC,under a tree to the right when you exit YMCA,passenger,driver
+2021-12-03 08:36:32.316 UTC,I'm trying to find the entrance to the apartments  the GPS took me down a bad way,passenger,driver
+2022-04-07 18:28:26.516 UTC,"I'm your driver, Ryan",passenger,driver
+2022-03-26 20:52:09.495 UTC,OK,passenger,driver
+2021-11-27 02:19:27.240 UTC,Sounds good,passenger,driver
+2022-01-07 04:02:33.047 UTC,On my way,passenger,driver
+2022-03-31 21:03:05.155 UTC,I'm at the parking lot near 100 w Houston. I don't see the business you are at,passenger,driver
+2022-06-04 10:09:58.964 UTC,On my way,passenger,driver
+2022-01-02 05:41:09.856 UTC,with a pink Lyft light,passenger,driver
+2021-09-22 20:20:15.429 UTC,be there asap,passenger,driver
+2022-04-22 02:46:10.066 UTC,I'm parked across from the drive thru order area,passenger,driver
+2022-01-29 04:28:00.591 UTC,I'm in lane 1 sign a,passenger,driver
+2022-02-23 02:44:48.256 UTC,"I'm your driver, Ryan",passenger,driver
+2022-03-05 06:59:49.745 UTC,Sounds good,passenger,driver
+2022-01-20 03:49:25.758 UTC,Stuck in traffic,passenger,driver
+2022-01-01 05:11:11.530 UTC,Sounds good,passenger,driver
+2022-03-29 20:40:12.606 UTC,OK,passenger,driver
+2021-11-28 00:06:49.333 UTC,yee,passenger,driver
+2021-12-30 00:24:24.436 UTC,I'll look for it,passenger,driver
+2022-01-20 19:28:12.306 UTC,OK,passenger,driver
+2022-01-16 01:42:34.344 UTC,"Gate code, please?",passenger,driver
+2021-10-08 21:01:04.423 UTC,"I'm your driver, Ryan",passenger,driver
+2022-03-12 17:34:24.449 UTC,"which building number, please?",passenger,driver
+2022-05-03 21:09:32.517 UTC,I'm outside of the leasing office. around the complex.,driver,passenger
+2022-06-03 06:30:24.578 UTC,"Hi, where are you?",passenger,driver
+2021-12-08 02:08:46.079 UTC,please let him know I'm in a white Kia soul so he knows who to look for,passenger,driver
+2021-10-05 22:53:30.647 UTC,Sounds good,passenger,driver
+2021-12-26 07:56:42.149 UTC,in the parking lot,passenger,driver
+2021-11-22 23:06:37.029 UTC,Sounds good,passenger,driver
+2022-05-28 05:18:53.890 UTC,"Gate code, please?",passenger,driver
+2021-09-02 22:09:13.113 UTC,Sounds good,passenger,driver
+2021-11-28 02:56:21.961 UTC,"Gate code, please?",passenger,driver
+2021-11-22 23:06:38.428 UTC,Sounds good,passenger,driver
+2022-04-07 19:50:33.638 UTC,Sounds good,passenger,driver
+2022-01-06 05:34:22.770 UTC,OK,passenger,driver
+2021-09-21 23:31:08.293 UTC,Sounds good,passenger,driver
+2021-11-11 03:53:29.591 UTC,"Gate code, please?",passenger,driver
+2021-12-26 03:28:47.906 UTC,Sounds good,passenger,driver
+2022-03-18 22:47:48.106 UTC,"I'm your driver, Ryan",passenger,driver
+2021-09-14 21:53:42.128 UTC,"no problem, I can wait",passenger,driver
+2022-03-12 17:33:51.154 UTC,Sounds good,passenger,driver
+2022-03-06 03:10:18.232 UTC,Sounds good,passenger,driver
+2021-11-19 06:37:28.331 UTC,"I'm your driver, Ryan",passenger,driver
+2021-09-15 23:59:32.880 UTC,Stuck in traffic,passenger,driver
+2022-01-07 04:00:56.242 UTC,"Hello, I'm in front of the PF Chang's drive up area. is that correct? my app shows you a bit farther out",passenger,driver
+2022-03-02 17:33:00.102 UTC,"yes, I'm parked out front",passenger,driver
+2021-11-20 01:39:56.505 UTC,"gps screwed me, be right there",passenger,driver
+2021-11-19 01:32:55.399 UTC,"Gate code, please?",passenger,driver
+2021-09-16 22:03:34.319 UTC,OK,passenger,driver
+2022-02-12 23:56:02.810 UTC,Sounds good,passenger,driver
+2021-08-21 17:01:28.120 UTC,"I'm your driver, Ryan",passenger,driver
+2022-02-06 01:06:59.066 UTC,be there asap,passenger,driver
+2022-03-16 20:30:09.522 UTC,building 2,passenger,driver
+2022-02-23 02:45:01.720 UTC,On my way,passenger,driver
+2022-02-23 02:44:23.848 UTC,"the GPS took me to Hotel Indigo entrance, is this correct?",passenger,driver
+2021-10-23 07:18:38.568 UTC,he is checking in with the front desk,passenger,driver
+2022-02-02 20:02:45.645 UTC,"I'm your driver, Ryan",passenger,driver
+2021-12-08 02:08:46.049 UTC,Sounds good,passenger,driver
+2021-08-29 01:45:12.676 UTC,Sounds good,passenger,driver
+2022-02-25 21:48:31.532 UTC,I will,passenger,driver
+2021-12-30 06:04:17.605 UTC,they funnel us all to one spot,passenger,driver
+2021-12-29 20:31:45.293 UTC,OK,passenger,driver
+2022-02-25 21:25:23.573 UTC,hi there. I'm ready when you are,passenger,driver
+2022-05-27 03:01:08.124 UTC,"Gate code, please?",passenger,driver
+2022-01-20 04:24:31.457 UTC,Sounds good,passenger,driver
+2022-02-02 19:24:39.274 UTC,I'm in a white Kia Soul,passenger,driver
+2021-11-22 19:02:18.273 UTC,OK,passenger,driver
+2022-01-04 20:54:06.815 UTC,"thank you,",passenger,driver
+2022-04-21 16:41:18.888 UTC,"I'm your driver, Ryan",passenger,driver
+2021-11-19 06:37:30.284 UTC,"Hi, where are you?",passenger,driver
+2021-09-19 02:04:25.244 UTC,cops have the roads blocked off,passenger,driver
+2022-02-23 04:01:55.878 UTC,yes. cancel and there should be a driver soon to the airport,passenger,driver
+2021-10-04 18:25:22.662 UTC,Sounds good,passenger,driver
+2022-03-14 20:47:19.004 UTC,"just read all these messages. sounds good, I'm at the back entrance",passenger,driver
+2022-04-21 21:03:39.996 UTC,"Gate code, please?",passenger,driver
+2022-03-05 02:30:50.218 UTC,On my way,passenger,driver
+2021-09-02 19:52:24.580 UTC,JC food Mart in the 99cent I my shopping center,passenger,driver
+2021-06-19 03:44:00.476 UTC,no problem. I'm outside WalMart with my cart ☺️,driver,passenger
+2022-03-17 02:29:36.288 UTC,Sounds good,passenger,driver
+2022-02-06 01:06:32.366 UTC,Stuck in traffic,passenger,driver
+2022-05-29 23:40:19.282 UTC,"Gate code, please?",passenger,driver
+2021-11-24 04:31:31.561 UTC,"Gate code, please?",passenger,driver
+2021-11-13 09:58:13.326 UTC,Sounds good,passenger,driver
+2022-02-19 02:02:11.692 UTC,"Gate code, please?",passenger,driver
+2022-03-02 22:12:12.859 UTC,On my way,passenger,driver
+2022-03-23 23:40:17.795 UTC,I'll circle around,passenger,driver
+2021-12-04 22:51:53.608 UTC,"Gate code, please?",passenger,driver
+2021-06-29 02:28:47.159 UTC,I'm in a gray Hyundai Elantra,passenger,driver
+2022-04-23 04:00:40.116 UTC,I'm the middle lane by the chain link fence,passenger,driver
+2022-02-19 20:29:46.052 UTC,on my way,passenger,driver
+2021-12-04 22:07:36.993 UTC,"Gate code, please?",passenger,driver
+2021-10-21 02:08:06.534 UTC,Sounds good,passenger,driver
+2022-01-25 05:33:31.666 UTC,Sounds good,passenger,driver
+2021-08-21 17:00:10.000 UTC,"Hi, where are you?",passenger,driver
+2021-12-31 23:37:00.194 UTC,Sounds good,passenger,driver
+2021-11-08 21:09:04.250 UTC,"I'm your driver, Ryan",passenger,driver
+2022-02-23 04:00:30.520 UTC,I'm at an apartment complex. I think you reversed the addresses in the app,passenger,driver
+2022-01-01 05:11:00.160 UTC,"Gate code, please?",passenger,driver
+2022-03-18 19:28:03.203 UTC,Sounds good,passenger,driver
+2021-11-14 06:24:00.581 UTC,"Gate code, please?",passenger,driver
+2021-11-22 21:54:44.787 UTC,Sounds good,passenger,driver
+2022-03-16 20:32:23.420 UTC,Sounds good,passenger,driver
+2021-12-30 21:42:54.696 UTC,"Gate code, please?",passenger,driver
+2021-11-12 01:07:12.011 UTC,Sounds good,passenger,driver
+2022-02-02 20:02:52.231 UTC,I'm in a white Kia Soul,passenger,driver
+2021-11-11 04:38:11.339 UTC,Sounds good,passenger,driver
+2021-09-19 02:04:11.030 UTC,Stuck in traffic,passenger,driver
+2021-11-13 04:25:55.753 UTC,Sounds good,passenger,driver
+2021-07-01 18:09:56.898 UTC,"Gate code, please?",passenger,driver
+2022-03-12 01:45:47.934 UTC,"okay, let me get the correct address",passenger,driver
+2021-12-31 23:32:49.456 UTC,"Gate code, please?",passenger,driver
+2021-11-13 04:20:17.665 UTC,"he has to meet me at rideshare pickup, police won't let me to that address",passenger,driver
+2021-12-06 02:24:59.984 UTC,Sounds good,passenger,driver
+2022-03-28 19:35:26.414 UTC,Sounds good,passenger,driver
+2021-12-12 01:56:49.365 UTC,no worries,passenger,driver
+2022-02-25 20:10:59.604 UTC,"sounds good. 1710 John road in Dallas, correct? just wanna make sure before we take the long ride",passenger,driver
+2021-08-30 19:56:03.728 UTC,"I'm your driver, Ryan",passenger,driver
+2021-10-05 21:11:09.556 UTC,"gate code, please?",passenger,driver
+2021-10-17 01:11:46.978 UTC,"I'm at the emergency entrance, I'll drive around for the exit",passenger,driver
+2022-02-25 23:33:28.590 UTC,is there an apartment number? I am at an apartment complex.,passenger,driver
+2022-02-13 02:31:03.821 UTC,I had to park across from Gloria's at Bowl and Barrel,passenger,driver
+2022-02-05 20:09:08.225 UTC,On my way,passenger,driver
+2021-12-10 08:49:37.365 UTC,"Gate code, please?",passenger,driver
+2022-01-29 04:27:50.111 UTC,I'm in a white Kia Soul,passenger,driver
+2021-10-10 23:27:41.159 UTC,"I'm at the valet entrance, thank you",passenger,driver
+2022-01-02 05:38:23.711 UTC,Lane 1,passenger,driver
+2022-03-02 23:43:49.989 UTC,Sounds good,passenger,driver
+2022-04-09 02:42:41.754 UTC,"I'm your driver, Ryan",passenger,driver
+2021-11-19 03:06:20.984 UTC,Sounds good,passenger,driver
+2022-02-28 01:03:12.677 UTC,Sounds good,passenger,driver
+2022-04-23 05:05:28.166 UTC,"thanks for letting me know, not a problem, we will have to stop for gas",passenger,driver
+2021-08-25 17:54:58.216 UTC,Sounds good,passenger,driver
+2021-08-20 00:37:27.143 UTC,Sounds good,passenger,driver
+2021-10-08 01:12:23.228 UTC,"yes, I can come around back if you like",passenger,driver
+2021-10-10 21:55:42.630 UTC,Sounds good,passenger,driver
+2021-08-30 19:56:06.900 UTC,"Hi, where are you?",passenger,driver
+2022-02-13 02:30:42.422 UTC,"I'm your driver, Ryan",passenger,driver
+2022-04-23 04:00:03.164 UTC,"entering lane 3, at the A's",passenger,driver
+2021-11-26 20:44:49.971 UTC,no problem,passenger,driver
+2022-01-16 05:04:22.985 UTC,"I can wait, no problem",passenger,driver
+2021-12-27 01:49:16.255 UTC,On my way,passenger,driver
+2021-08-20 02:08:25.665 UTC,Sounds good,passenger,driver
+2021-11-13 04:16:30.807 UTC,"Police are controlling traffic out of the stadium, I'll turn around",passenger,driver
+2021-10-08 21:01:13.916 UTC,"Hi, where are you?",passenger,driver
+2021-10-20 00:18:44.918 UTC,OK,passenger,driver
+2022-06-04 09:41:41.050 UTC,Sounds good,passenger,driver
+2022-03-03 10:27:33.343 UTC,"I'm your driver, Ryan",passenger,driver
+2021-12-11 02:18:07.685 UTC,Sounds good,passenger,driver
+2022-03-31 21:02:41.867 UTC,"I'm your driver, Ryan",passenger,driver
+2022-01-30 04:40:19.865 UTC,On my way,passenger,driver
+2022-01-02 05:39:00.790 UTC,forced into Lane 2,passenger,driver
+2022-01-28 23:16:33.708 UTC,"I just cleaned up the car and vacuumed everywhere, I didn't find your wallet and Amy lost items",passenger,driver
+2022-04-21 16:41:52.306 UTC,"the app has you across the street from Circle K, but I don't see a residence or business. where can I pick you up?",passenger,driver
+2021-11-11 01:20:46.562 UTC,Sounds good,passenger,driver
+2022-01-14 04:36:55.900 UTC,I was dropping off another passenger. on my way to you now,passenger,driver
+2022-01-06 23:29:58.227 UTC,Sounds good,passenger,driver

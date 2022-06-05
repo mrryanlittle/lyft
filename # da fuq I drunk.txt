@@ -1,0 +1,3 @@
+# da fuq I drunk
+gayBoy = name
+name = print()
