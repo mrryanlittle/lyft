@@ -6,6 +6,9 @@ A data analysis of my rides as a Lyft driver. The goal is to maximize time and r
 
 ## Questions to Answer
 Q1. Average Hourly Rate (DoD, WoW, MoM, YoY, etc.)
+    i. Using /data/payments_to_user.csv
+    ii. Isolate payout types (express, instant, weekly)
+    
 
 Q2. Holiday Trends?
 
